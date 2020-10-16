@@ -14,5 +14,8 @@
   "version": "1.0.0",
   "main": "calc.test.js",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "yarn": "^1.22.10"
+  }
 }
